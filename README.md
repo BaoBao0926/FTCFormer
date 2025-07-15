@@ -4,8 +4,9 @@
 - **[Muyi Bao](https://github.com/BaoBao0926/BaoBao0926.github.io)**, **Changyu Zeng**, **Yifan Wang**, **Zhengni Yang**, **Zimu Wang**, **Guangliang Cheng**, **Jun Qi**, **Wei Wang**
 
 ### NEWS:
-- 2025.07.16: The code has been uploaded
-- 2025.07.14：The paper has been accepted by **ECAI'2025**!
+- 2025.07.15: The paper has been uploaded in [Arxiv](https://arxiv.org/abs/2507.10283)
+- 2025.07.14: The code has been uploaded
+- 2025.07.11：The paper has been accepted by **ECAI'2025**!
 - 2025.05.16: The repository was created
 
 
